@@ -84,4 +84,4 @@ This dashboard enables a comprehensive view of sales and profitability, empoweri
 ## Contact Information  
 For questions or collaborations, connect via:  
 - **GitHub**: [Adhithyakrishnan](https://github.com/Adhithyakrishnan)  
-- **LinkedIn**: ((https://www.linkedin.com/in/adhithyakrishnan/))  
+- **LinkedIn**: https://www.linkedin.com/in/adhithyakrishnan/))  
