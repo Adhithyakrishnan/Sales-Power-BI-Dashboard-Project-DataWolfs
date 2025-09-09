@@ -3,8 +3,8 @@
 ## Overview  
 This project involves the development of a **data-driven sales dashboard** in Power BI to track and analyze key performance metrics. The dashboard provides insights into **Sales, Profit, Profit Margin, and Products Sold** with comparisons against previous year trends.  
 
-![Sales Dashboard Screenshot](<img width="1731" height="966" alt="image" src="https://github.com/user-attachments/assets/48299681-bcea-4e90-8329-3cb1139d0677" />
-)
+![Sales Dashboard Screenshot](https://raw.githubusercontent.com/Adhithyakrishnan/Sales-Power-BI-Dashboard-Project-DataWolfs/main/Dashboard%20preview)
+
 
 ## Table of Contents  
 - [Overview](#overview)  
