@@ -22,6 +22,10 @@ This project involves the development of a **data-driven sales dashboard** in Po
 ### Background  
 This project focuses on analyzing sales performance across different products, cities, and channels. The dashboard allows decision-makers to quickly monitor profitability, identify high-performing regions, and understand customer behavior.  
 
+## 📑 Project Documentation
+- [Business Requirements Document (BRD)](BRD.md)  
+- [Functional Requirements Document (FRD)](FRD.md)  
+
 ### Objective  
 - To analyze sales and profit trends with year-over-year comparisons.  
 - To measure **profit margin** and track product-level performance.  
