@@ -76,7 +76,7 @@ The dataset includes:
 
 ## Files and Resources  
 - **Power BI Dashboard File**: `sales_dashboard.pbix`  
-- **GitHub Repo**: [DataWolfs-Sales-Power-BI-Project](https://github.com/Adhithyakrishnan/DataWolfs-Sales-Power-BI-Project)  
+
 
 ## Conclusion  
 This dashboard enables a comprehensive view of sales and profitability, empowering data-driven decisions. By tracking YoY trends and customer-level sales, the dashboard helps identify key opportunities for growth and operational efficiency.  
